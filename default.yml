@@ -24,7 +24,7 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: Novo
+    org_name: Novo_Fleet
 
   server_settings:
     ###########################################################
